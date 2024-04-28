@@ -1,4 +1,4 @@
-# TCP Chat Application using C++ and Winsock
+# Socket Communication using C++ and Winsock
 
 This repository contains a simple TCP chat application implemented in C++ using the Winsock library. The application consists of two programs: a server and a client. The server listens for incoming connections from clients, receives messages from clients, and sends acknowledgment responses. The client connects to the server, sends messages to the server, and displays acknowledgment responses from the server.
 
